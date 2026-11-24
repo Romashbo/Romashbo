@@ -9,6 +9,7 @@
 | Проект | Компетенции |
 | --- | --- |
 | [FarmCRM — системный анализ и продуктовый кейс](https://github.com/Romashbo/farmcrm-case-study) | SaaS, бизнес-правила, BPMN, UML, ERD, REST API, монетизация |
+| [HoReCa QR — бизнес-анализ и продуктовый кейс](https://github.com/Romashbo/horeca-crm-case-study) | CJM, BPMN, SSE, AI-интеграция, продуктовые метрики и гипотезы |
 | [QA Engineering — тестовое задание](https://github.com/Romashbo/test-qa) | Playwright, TypeScript, E2E, анализ дефектов, мониторинг и CI |
 
 ## Навыки
